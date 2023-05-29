@@ -17,7 +17,13 @@ For our purposes, a `Restaurant` has many `Reviews`, a `Customer` has many `Revi
 - Variable Scope
 - Object Relationships
 - lists and list Methods
+## Topics
 
+- Classes and Instances
+- Class and Instance Methods
+- Variable Scope
+- Object Relationships
+- lists and list Methods
 ## Instructions
 
 To get started, run `pipenv install` while inside of this directory.
